@@ -1,0 +1,7 @@
+secrets
+pyyaml
+psutil
+requests
+web3
+datetime
+discord_webhook
